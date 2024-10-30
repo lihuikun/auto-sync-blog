@@ -1,7 +1,7 @@
 // 生成 vuepress 配置相关
 export const CONFIG_FILE_PATH = "docs/.vitepress/config" // config 生成路径
 export const THEME_SET_FILE_PATH = "works/generator/vitepress/theme"
-export const THEME_FILE_PATH = "docs/.vitepress/theme"
+export const THEME_FILE_PATH = "docs/.vitepress/theme/index"
 // 默认 index.md 位置
 export const DOCS_FILE_PATH = "docs/src"
 // 概览页
