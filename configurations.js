@@ -112,7 +112,7 @@ export default {
 
   // 掘金
   juejin: {
-    userId: "2819602825362840",
+    userId: "3664010809185870",
     columnsIds: [],
   },
 }
