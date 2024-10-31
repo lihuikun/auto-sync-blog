@@ -17,7 +17,7 @@ export default {
     image: "https://vitepress.dev/vitepress-logo-large.webp",
     actions: [
       { theme: "brand", text: "开始阅读", link: "/overview/index" },
-      { theme: "alt", text: "个人主页", link: "https://miyuefe.cn" },
+      { theme: "alt", text: "前端工具库", link: "https://web-toolbox-one.vercel.app/" },
       { theme: "alt", text: "关注掘金", link: "https://juejin.cn/user/3664010809185870" },
     ],
     features: [
