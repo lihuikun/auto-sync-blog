@@ -97,6 +97,20 @@ http://localhost:5173/
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/lihuikun">
+            <img src="https://avatars.githubusercontent.com/u/83935370?v=4" width="100;" alt="lihuikun"/>
+            <br />
+            <sub><b>Claude Willits</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/miyuesc">
+            <img src="https://avatars.githubusercontent.com/u/50617660?v=4" width="100;" alt="miyuesc"/>
+            <br />
+            <sub><b>MiyueFE</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/tea-blog">
             <img src="https://avatars.githubusercontent.com/u/68322136?v=4" width="100;" alt="tea-blog"/>
             <br />
@@ -108,13 +122,6 @@ http://localhost:5173/
             <img src="https://avatars.githubusercontent.com/u/86654383?v=4" width="100;" alt="NanFangZhe404"/>
             <br />
             <sub><b>南方者</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/miyuesc">
-            <img src="https://avatars.githubusercontent.com/u/50617660?v=4" width="100;" alt="miyuesc"/>
-            <br />
-            <sub><b>MiyueFE</b></sub>
         </a>
     </td>
     <td align="center">
