@@ -29,7 +29,7 @@ export default {
     nav: ["column", "category", "ranking", "annual", "follow"],
 
     socialLinks: {
-      github: "https://github.com/miyuesc/auto-sync-blog",
+      github: "https://github.com/lihuikun/auto-sync-blog",
     },
 
     showTeam: false,
