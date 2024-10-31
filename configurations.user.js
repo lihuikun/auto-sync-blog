@@ -1,8 +1,8 @@
 export default {
   // blog 基础配置
   blog: {
-    title: "MiyueFE's blog",
-    description: "专注于 Web 前端的菜鸟开发",
+    title: "LHK blog",
+    description: "前端开发的日常",
     logo: "https://miyuefe.cn/assets/images/logo.svg",
     siteName: "miyuefe.cn",
     keywords: ["前端", "Vue", "JavaScript", "TypeScript", "HTML", "CSS", "MiyueFE", "bpmn", "bpmn-js"],
@@ -11,8 +11,8 @@ export default {
 
   // vite press 构建配置
   press: {
-    name: "MiyueFE",
-    text: "专注于 Web 前端的菜鸟开发",
+    name: "微信公众号：前端的日常",
+    text: "前端开发的日常",
     tagline: "Welcome to my blog ~",
     image: "https://vitepress.dev/vitepress-logo-large.webp",
     actions: [
