@@ -18,7 +18,7 @@ export default {
     actions: [
       { theme: "brand", text: "开始阅读", link: "/overview/index" },
       { theme: "alt", text: "个人主页", link: "https://miyuefe.cn" },
-      { theme: "alt", text: "关注掘金", link: "https://juejin.cn/user/747323639208391" },
+      { theme: "alt", text: "关注掘金", link: "https://juejin.cn/user/3664010809185870" },
     ],
     features: [
       { icon: "🎈", title: "Vue", details: "" },
@@ -37,6 +37,6 @@ export default {
 
   // 掘金
   juejin: {
-    userId: "747323639208391",
+    userId: "3664010809185870",
   },
 }
